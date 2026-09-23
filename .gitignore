@@ -1,0 +1,11 @@
+# Source dataset (summary of a published book) — kept out of version control
+*.pdf
+
+# Local tooling
+.claude/
+
+# OS / editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
